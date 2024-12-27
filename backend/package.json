@@ -1,0 +1,14 @@
+{
+  "name": "travel-companion",
+  "version": "1.0.0",
+  "description": "a web application that helps users discover travel destinations, plan itineraries, and share trip plans with others.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+    
+  },
+  
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
